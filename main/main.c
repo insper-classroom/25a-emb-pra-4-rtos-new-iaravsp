@@ -62,7 +62,7 @@ void echo_task(void *p)
 
     int tempo_inicial = 0;
     int tempo_final = 0;
-    int duracao = 0;
+    int duracao;
 
     for (;;)
     {
